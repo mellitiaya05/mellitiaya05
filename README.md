@@ -1,86 +1,88 @@
-# Hi there, I'm Eya Melliti! 👋
+# 👋 Hi, I'm Eya Melliti
 
-### 💻 Full-Stack Developer | AI & Generative AI Enthusiast | Computer Science Student
+### Full-Stack Developer | AI & Generative AI Enthusiast | Software Engineering Student
 
-I'm a Computer Science student specializing in **Software Engineering and Information Systems**, passionate about building innovative applications and exploring emerging technologies.
-
-I enjoy developing full-stack applications, exploring Artificial Intelligence, and turning ideas into practical software solutions.
-
-- 🎓 Computer Science Student – Licence in Software Engineering & Information Systems
-- 💻 Interested in Full-Stack Development and Software Engineering
-- 🤖 Exploring Artificial Intelligence, Generative AI, LLMs, and Computer Vision
-- ☁️ Currently exploring Cloud Computing
-- 🌱 Always learning, building, and improving.
-- 🤝 Tech Titans – Vice Head of Information
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Applications;Exploring+Artificial+Intelligence;Learning+Generative+AI+%26+LLMs;Turning+Ideas+Into+Code" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 💫 About Me
 
-**Programming Languages**
+I'm a Computer Science student pursuing a Licence in **Software Engineering and Information Systems** at the Faculty of Sciences of Monastir, Tunisia.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+I'm passionate about software development, artificial intelligence, and building solutions that combine creativity with technology.
 
-**Web & Backend Development**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**AI & Emerging Technologies**
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 🎓 Software Engineering & Information Systems Student
+- 💻 Interested in Full-Stack Development
+- 🤖 Exploring AI, Machine Learning and Generative AI
+- 🧠 Interested in LLMs, RAG and Computer Vision
+- ☁️ Exploring Cloud Computing
+- 🤝 Vice Head of Information – Tech Titans
+- 🎯 Open to PFE, internship and collaboration opportunities.
 
 ---
 
-### 🚀 Areas of Interest
+## 💻 Technologies & Tools
 
-- Full-Stack Web Development
-- Artificial Intelligence & Machine Learning
-- Generative AI and Large Language Models
+### Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,spring" />
+</p>
+
+### Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,androidstudio" />
+</p>
+
+### Currently Exploring
+- Generative AI & Large Language Models
 - Retrieval-Augmented Generation (RAG)
-- Computer Vision
+- Spring Boot
 - Cloud Computing
-- Software Architecture
+- Artificial Intelligence
 
 ---
 
-### 📜 Certifications & Learning
+## 🏆 Certifications
 
 - Cisco – Generative AI
 - AWS – AI Skills Fest 2026
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mellitiaya05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellitiaya05&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mellitiaya05&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🤝 Let's Connect!
-
-I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/melliti-eya)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/mellitiaya05)
-
-📩 Open to internship opportunities, collaboration, and learning experiences.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mellitiaya05&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-⭐ *"Building today, innovating tomorrow."*
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/melliti-eya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/mellitiaya05">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Always learning. Always building. Always exploring what's next.</i>
+</p>
+
+<h3 align="center">✨ Let's build something meaningful together!</h3>
