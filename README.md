@@ -1,88 +1,41 @@
-# 👋 Hi, I'm Eya Melliti
+# Hi, I'm Eya Melliti 👋
 
-### Full-Stack Developer | AI & Generative AI Enthusiast | Software Engineering Student
+### Full-Stack Developer | AI & Generative AI Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Applications;Exploring+Artificial+Intelligence;Learning+Generative+AI+%26+LLMs;Turning+Ideas+Into+Code" />
-</p>
+I'm a Computer Science student specializing in Software Engineering and Information Systems at the Faculty of Sciences of Monastir, Tunisia.
 
----
+I'm passionate about building web applications and exploring new technologies, especially Artificial Intelligence and Cloud Computing.
 
-## 💫 About Me
-
-I'm a Computer Science student pursuing a Licence in **Software Engineering and Information Systems** at the Faculty of Sciences of Monastir, Tunisia.
-
-I'm passionate about software development, artificial intelligence, and building solutions that combine creativity with technology.
-
-- 🎓 Software Engineering & Information Systems Student
+- 🎓 Software Engineering Student
 - 💻 Interested in Full-Stack Development
-- 🤖 Exploring AI, Machine Learning and Generative AI
-- 🧠 Interested in LLMs, RAG and Computer Vision
-- ☁️ Exploring Cloud Computing
-- 🤝 Vice Head of Information – Tech Titans
-- 🎯 Open to PFE, internship and collaboration opportunities.
+- 🤖 Exploring AI, Generative AI, LLMs and RAG
+- ☁️ Learning about Cloud Computing
+- 🌱 Always learning and building new things.
 
----
+### 🛠️ Technologies & Tools
 
-## 💻 Technologies & Tools
+**Languages**
 
-### Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
-</p>
+Java · Python · C · JavaScript
 
-### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,spring" />
-</p>
+**Development**
 
-### Tools & Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,androidstudio" />
-</p>
+Spring Boot · HTML · CSS
 
-### Currently Exploring
-- Generative AI & Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Spring Boot
-- Cloud Computing
-- Artificial Intelligence
+**Tools**
 
----
+Git · GitHub · VS Code · Linux · MySQL
 
-## 🏆 Certifications
+### 📜 Certifications
 
 - Cisco – Generative AI
 - AWS – AI Skills Fest 2026
 
----
+### 📫 Connect With Me
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mellitiaya05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellitiaya05&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mellitiaya05&theme=tokyonight&hide_border=true" />
-</p>
+- [LinkedIn](https://www.linkedin.com/in/melliti-eya/)
+- [GitHub](https://github.com/mellitiaya05)
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/melliti-eya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/mellitiaya05">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Always learning. Always building. Always exploring what's next.</i>
-</p>
-
-<h3 align="center">✨ Let's build something meaningful together!</h3>
+*Always learning, building and exploring new possibilities.*
